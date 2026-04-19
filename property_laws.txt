@@ -1,0 +1,423 @@
+================================================================================
+TITLESURE KNOWLEDGE BASE — INDIAN PROPERTY LAW REFERENCE
+Version 1.0 | Compiled for TitleSure AI Due Diligence Platform
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+PART 1: TRANSFER OF PROPERTY ACT, 1882 (TPA)
+────────────────────────────────────────────────────────────────────────────────
+
+OVERVIEW:
+The Transfer of Property Act, 1882 governs the transfer of property between
+living persons in India. It defines the rules, conditions, and restrictions
+applicable to property transactions.
+
+KEY DEFINITIONS (Section 3):
+- "Immovable property" includes land, benefits arising out of land, and things
+  attached to the earth or permanently fastened to anything attached to the earth.
+- "Instrument" means a non-testamentary document.
+- "Attestation" means signed by two or more witnesses, each of whom has seen
+  the executant sign or affix his mark to the instrument.
+- "Registered" means registered under the law for registration of documents.
+- "Actionable claim" means a claim to any debt (other than a debt secured by
+  mortgage or charge upon immoveable property).
+
+SECTION 5 — TRANSFER OF PROPERTY DEFINED:
+In the following sections, "transfer of property" means an act by which a
+living person conveys property, in present or in future, to one or more other
+living persons, or to himself and one or more other living persons.
+
+SECTION 6 — WHAT MAY BE TRANSFERRED:
+Property of any kind may be transferred, except:
+(a) The chance of an heir-apparent succeeding to an estate.
+(b) The chance of a relation obtaining a legacy.
+(c) A mere right of re-entry for breach of a condition subsequent.
+(d) An easement apart from the dominant heritage.
+(e) An interest in property restricted in its enjoyment to the owner personally.
+(f) A right to future maintenance.
+(g) A mere right to sue cannot be transferred.
+(h) A public office cannot be transferred.
+
+SECTION 7 — PERSONS COMPETENT TO TRANSFER:
+Every person competent to contract, and entitled to transferable property, or
+authorised to dispose of transferable property not his own, is competent to
+transfer such property in the circumstances and to the extent allowed by law.
+- Must be a major (above 18 years as per Indian Majority Act, 1875).
+- Must be of sound mind.
+- Must not be disqualified by law.
+
+SECTION 8 — OPERATION OF TRANSFER:
+Unless a different intention is expressed or implied, a transfer of property
+passes forthwith to the transferee all the interest which the transferor is then
+capable of passing in the property, and in the legal incidents thereof.
+
+SECTION 54 — SALE DEFINED:
+"Sale" is a transfer of ownership in exchange for a price paid or promised or
+part-paid and part-promised. A sale of tangible immoveable property of value
+of Rs. 100 or more can only be made by a registered instrument.
+
+SECTION 55 — RIGHTS AND LIABILITIES OF BUYER AND SELLER:
+Seller must:
+(a) Disclose to buyer any material defect in property or title.
+(b) Produce title-deeds for examination.
+(c) Answer relevant questions about title.
+(d) Execute proper conveyance on payment.
+(e) Take care of property and title deeds until delivery.
+
+Buyer must:
+(a) Disclose material facts increasing value of property known to him.
+(b) Pay purchase price at time and place agreed.
+(c) Bear loss or destruction of property after sale is complete.
+
+SECTION 58 — MORTGAGE DEFINED:
+A mortgage is a transfer of an interest in specific immoveable property for the
+purpose of securing the payment of money advanced or to be advanced by way of
+loan, an existing or future debt, or the performance of an engagement which may
+give rise to a pecuniary liability.
+Types of mortgage:
+(a) Simple mortgage
+(b) Mortgage by conditional sale
+(c) Usufructuary mortgage
+(d) English mortgage
+(e) Mortgage by deposit of title deeds (equitable mortgage)
+(f) Anomalous mortgage
+
+SECTION 105 — LEASE DEFINED:
+A lease of immoveable property is a transfer of a right to enjoy such property
+made for a certain time, express or implied, or in perpetuity, in consideration
+of a price paid or promised, or of money, a share of crops, service, or any
+other thing of value to be rendered periodically or on specified occasions to
+the transferor by the transferee.
+
+SECTION 122 — GIFT DEFINED:
+"Gift" is the transfer of certain existing moveable or immoveable property made
+voluntarily and without consideration, by one person (donor) to another (donee),
+and accepted by or on behalf of the donee. Acceptance must occur during donor's
+lifetime. Gift of immoveable property must be by registered instrument.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 2: REGISTRATION ACT, 1908
+────────────────────────────────────────────────────────────────────────────────
+
+OVERVIEW:
+The Registration Act, 1908 provides for the registration of documents to ensure
+authenticity, prevent fraud, and maintain a public record of transactions
+involving immoveable property.
+
+SECTION 17 — DOCUMENTS OF WHICH REGISTRATION IS COMPULSORY:
+The following documents must be compulsorily registered:
+(a) Instruments of gift of immoveable property.
+(b) Other non-testamentary instruments which purport or operate to create,
+    declare, assign, limit, or extinguish any right, title, or interest of
+    value of Rs. 100 or more to or in immoveable property.
+(c) Non-testamentary instruments which acknowledge the receipt or payment of
+    any consideration on account of creation, declaration, assignment,
+    limitation, or extinction of any such right, title, or interest.
+(d) Leases of immoveable property from year to year, or for any term exceeding
+    one year, or reserving a yearly rent.
+(e) Non-testamentary instruments transferring or assigning any decree or order
+    of Court, or any award, when such decree or order or award purports or
+    operates to create, declare, assign, limit, or extinguish any right, title,
+    or interest to or in immoveable property of value of Rs. 100 or more.
+
+SECTION 18 — DOCUMENTS OF WHICH REGISTRATION IS OPTIONAL:
+The following documents may be registered:
+(a) Instruments (other than wills) relating to immoveable property of value
+    less than Rs. 100.
+(b) Instruments acknowledging satisfaction of a mortgage.
+(c) Leases of immoveable property for a term not exceeding one year.
+(d) Wills.
+(e) Authority to adopt.
+(f) Documents other than those referred to in Section 17.
+
+SECTION 23 — TIME FOR PRESENTING DOCUMENTS:
+Subject to provisions of Sections 24, 25 and 26, no document other than a will
+shall be accepted for registration unless presented for that purpose within
+four months from the date of its execution.
+
+SECTION 25 — PROVISION WHERE DELAY IN PRESENTATION IS CAUSED BY UNAVOIDABLE ACCIDENT:
+If owing to urgent necessity or unavoidable accident, any document executed in
+India is not presented for registration within the time hereinbefore specified,
+the Registrar, in cases where the delay does not exceed four months, may allow
+registration on payment of a fine not exceeding ten times the amount of proper
+registration fees.
+
+SECTION 49 — EFFECT OF NON-REGISTRATION OF DOCUMENTS REQUIRED TO BE REGISTERED:
+No document required by Section 17 to be registered shall:
+(a) Affect any immoveable property comprised therein.
+(b) Confer any power to adopt.
+(c) Be received as evidence of any transaction affecting such property or
+    conferring such power.
+Unless it has been registered.
+
+SECTION 60 — CERTIFICATE OF REGISTRATION:
+The Registering Officer shall endorse thereon a certificate containing the word
+"registered" together with the number and page of the book in which the document
+has been copied, and shall sign and date the certificate and note in the margin
+of the Register Book the departure from office.
+
+REGISTRATION PROCEDURE:
+1. Document must be presented at the Sub-Registrar's office having jurisdiction.
+2. All executants must personally appear before the registering officer.
+3. Identity proof and photographs of parties required.
+4. Payment of stamp duty and registration fee.
+5. Two witnesses must be present and sign the document.
+6. Biometric verification may be required in some states.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 3: REAL ESTATE (REGULATION AND DEVELOPMENT) ACT, 2016 (RERA)
+────────────────────────────────────────────────────────────────────────────────
+
+OVERVIEW:
+RERA was enacted to regulate the real estate sector in India, protect the
+interests of consumers, and promote transparency and accountability in
+real estate transactions.
+
+KEY DEFINITIONS (Section 2):
+- "Allottee" means the person to whom a plot, apartment, or building has been
+  allotted, sold or otherwise transferred.
+- "Promoter" means a person who constructs or causes to be constructed an
+  apartment/building for the purpose of selling.
+- "Real estate project" means the development of a building or a plot for sale.
+- "Carpet area" means the net usable floor area of an apartment, excluding
+  area covered by external walls, areas under services shafts, exclusive balcony
+  or verandah area, and exclusive open terrace area.
+
+SECTION 3 — PRIOR REGISTRATION OF REAL ESTATE PROJECT WITH AUTHORITY:
+No promoter shall advertise, market, book, sell, or offer for sale or invite
+any person to purchase any plot, apartment, or building in any real estate
+project without registering the real estate project with the Real Estate
+Regulatory Authority.
+
+SECTION 4 — APPLICATION FOR REGISTRATION OF REAL ESTATE PROJECTS:
+Every promoter shall make an application for registration accompanied by:
+(a) Authenticated copy of approvals and commencement certificate.
+(b) Sanctioned plan and layout plan.
+(c) Plan of development works.
+(d) Proposed facilities including firefighting facilities, drinking water
+    facilities, emergency evacuation services, use of renewable energy.
+(e) Firm and total amount to be paid by allottee.
+(f) Number, type, and carpet area of apartments.
+(g) Names and addresses of real estate agents.
+(h) Declarations by promoter.
+
+SECTION 11 — FUNCTIONS AND DUTIES OF PROMOTER:
+Promoter shall:
+(a) Make the application for registration of the real estate project.
+(b) Create a webpage on RERA website containing project details.
+(c) Maintain separate accounts for 70% of amounts realised in an escrow account.
+(d) Not accept more than 10% of the cost of apartment as advance without
+    first entering into a written agreement for sale.
+(e) Execute registered agreement for sale with allottee.
+(f) Obtain completion certificate and provide it to allottee.
+(g) Obtain occupation certificate and provide it to allottee.
+(h) Maintain essential services until formation of association of allottees.
+
+SECTION 14 — ADHERENCE TO SANCTIONED PLANS:
+The promoter shall develop and complete the real estate project in accordance
+with the sanctioned plans, layout plans, and specifications as approved by
+competent authorities. No addition or alteration without consent of 2/3rd
+of allottees after occupancy.
+
+SECTION 18 — RETURN OF AMOUNT AND COMPENSATION:
+If the promoter fails to complete or is unable to give possession of an apartment:
+(a) In accordance with terms of agreement for sale, or
+(b) Due to discontinuance of his business or insolvency,
+The promoter shall be liable on demand to the allottees, in case the allottee
+wishes to withdraw from the project, without prejudice to any other remedy,
+to return the amount received by him plus interest at such rate as may be
+prescribed, and compensation in the manner provided.
+
+SECTION 19 — RIGHTS AND DUTIES OF ALLOTTEES:
+Allottees shall:
+(a) Have the right to obtain information relating to sanctioned plans, layout
+    plans, specifications, and stage-wise time schedule of completion.
+(b) Have the right to know stage-wise time schedule of completion of project.
+(c) Have the right to claim possession of apartment/plot.
+(d) Have the right to claim refund with interest and compensation.
+(e) Pay instalments within time and manner specified in agreement.
+(f) Pay interest for delay in payment.
+(g) Participate in formation of the association.
+
+RERA REGISTRATION CHECK:
+Always verify:
+- Whether the project is registered under state RERA authority.
+- RERA registration number (format varies by state).
+- Project completion date and current status.
+- Whether promoter has uploaded all required documents on RERA portal.
+- Escrow account compliance status.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 4: STAMP DUTY — KEY PRINCIPLES
+────────────────────────────────────────────────────────────────────────────────
+
+OVERVIEW:
+Stamp duty is a state subject. Rates vary by state. Common rates in major states:
+
+KARNATAKA:
+- Sale deed: 5% of property value + 1% registration fee + 0.5% BBMP / local
+  authority surcharge.
+- Gift deed (to family): 1% of property value.
+- Gift deed (to non-family): 5% of property value.
+- Power of attorney: Rs. 500 (limited) or 5% (general, to sell property).
+
+MAHARASHTRA:
+- Sale deed: 5% of property value (market value or agreement value, whichever
+  is higher) + 1% local body surcharge.
+- Women buyers: 1% concession in certain cases.
+
+DELHI:
+- Men: 6% of property value.
+- Women: 4% of property value.
+- Registration fee: 1% (max Rs. 1,00,000).
+
+IMPORTANT STAMP DUTY RULES:
+- Stamp duty is payable on the higher of: agreement value or government circle
+  rate (also called guideline value / ready reckoner rate).
+- Under-stamping is a legal defect. A document not properly stamped is
+  inadmissible in court and is treated as invalid.
+- Deficient stamp duty attracts penalty up to 10 times the deficient amount.
+- Stamp duty must be paid before or at time of execution of document.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 5: COMMON LEGAL RISKS IN PROPERTY TRANSACTIONS
+────────────────────────────────────────────────────────────────────────────────
+
+TITLE DEFECTS:
+1. Unclear chain of title — gaps in ownership history.
+2. Forged or fabricated documents.
+3. Impersonation — seller pretending to be the true owner.
+4. Property sold by a person without legal authority (no valid Power of Attorney).
+5. Property belonging to a minor — requires court permission for sale.
+6. Property belonging to a person of unsound mind — requires court approval.
+7. Property sold without consent of co-owners (in jointly held property).
+8. Court-attached property sold without court permission.
+9. Property under government acquisition notification.
+10. Benami transactions — property held in another's name.
+
+ENCUMBRANCE RISKS:
+1. Mortgage or charge not disclosed by seller.
+2. Pending loan against the property (banks have first charge).
+3. Unpaid property tax or water tax.
+4. Unpaid society maintenance (in apartments).
+5. Legal dispute pending in court (lis pendens).
+6. Caveat lodged by a third party.
+
+DOCUMENTATION RISKS:
+1. Sale deed not properly stamped.
+2. Sale deed not registered.
+3. Missing link documents (breaks in chain of title).
+4. Documents in regional language not properly translated.
+5. Power of Attorney: expired, revoked, or not properly executed.
+6. Khata/mutation not updated in the seller's name.
+7. Plan approval not obtained or lapsed.
+8. Occupancy certificate not obtained.
+
+RERA-SPECIFIC RISKS:
+1. Project not registered under RERA.
+2. Project registration expired.
+3. Builder has record of delayed or incomplete projects.
+4. Agreement for sale not in RERA-prescribed format.
+5. Carpet area not clearly defined.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 6: ENCUMBRANCE CERTIFICATE (EC) — GUIDE
+────────────────────────────────────────────────────────────────────────────────
+
+WHAT IS AN EC:
+An Encumbrance Certificate is an official document issued by the Sub-Registrar's
+office confirming all registered transactions on a property during a given period.
+It shows all charges, mortgages, or liabilities registered against the property.
+
+HOW TO OBTAIN:
+- Apply at Sub-Registrar's office or online (state-specific portals).
+- Specify property survey number and required period (minimum 13 years recommended).
+- Fee varies by state (typically Rs. 200–500 plus Rs. 25 per year of search).
+
+WHAT EC SHOWS:
+- All registered sales of the property.
+- All registered mortgages.
+- All registered lease deeds.
+- All registered gift deeds.
+- Court attachments (if separately registered).
+
+WHAT EC DOES NOT SHOW:
+- Unregistered transactions.
+- Court orders (unless specifically registered).
+- Government acquisition orders (check separately with revenue dept.).
+- Tax dues.
+- Society dues.
+- Family disputes / oral agreements.
+
+IMPORTANT: Always obtain EC for at least 30 years. 13 years is minimum.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 7: POWER OF ATTORNEY (POA) — KEY LEGAL POINTS
+────────────────────────────────────────────────────────────────────────────────
+
+TYPES OF POA:
+1. General Power of Attorney (GPA) — broad powers including power to sell.
+2. Special Power of Attorney (SPA) — restricted to specific acts.
+3. Irrevocable POA — cannot be revoked (only valid in specific circumstances).
+
+LEGAL REQUIREMENTS FOR POA IN PROPERTY TRANSACTIONS:
+- Must be executed by the principal (owner) in the presence of a Notary.
+- Should be registered if used for selling immoveable property (Supreme Court:
+  Suraj Lamp & Industries v. State of Haryana, 2011).
+- Must be stamped as per applicable Stamp Act.
+- Agent must be specifically authorised to execute sale deeds.
+
+RISKS WITH POA-BASED PROPERTY TRANSACTIONS:
+- POA may have been revoked before use.
+- Principal may have died, automatically revoking the POA.
+- POA may be forged.
+- POA may not authorise the specific act being performed.
+- Supreme Court has held that GPA sales do not confer marketable title.
+  (Suraj Lamp & Industries Pvt. Ltd. v State of Haryana & Another [2011] 14 SCC 656)
+
+VERIFICATION STEPS FOR POA:
+- Confirm POA is registered (for property transactions).
+- Confirm POA has not been revoked.
+- Confirm principal is alive and competent.
+- Check specific powers granted.
+- Verify agent's identity matches.
+
+────────────────────────────────────────────────────────────────────────────────
+PART 8: DUE DILIGENCE CHECKLIST
+────────────────────────────────────────────────────────────────────────────────
+
+PRE-PURCHASE DUE DILIGENCE STEPS:
+1. Verify title by examining 30 years of title documents.
+2. Obtain and verify Encumbrance Certificate for 30 years.
+3. Obtain mutation/Khata certificate confirming property in seller's name.
+4. Verify seller's identity (Aadhaar, PAN, passport).
+5. Confirm property tax receipts are up to date.
+6. Check for lis pendens (pending litigation) at court records.
+7. Verify building plan approval and its validity.
+8. Obtain and verify Occupancy Certificate (for completed buildings).
+9. For RERA projects: verify registration and check project status online.
+10. For apartments: verify No Dues Certificate from society.
+11. Check for any government acquisition notifications.
+12. Verify zonal classification (residential / commercial / agricultural).
+13. For agricultural land: check if conversion to residential use has been obtained.
+14. Verify all co-owners have signed / consented.
+15. If POA: follow POA verification steps above.
+16. Check that stamp duty was correctly paid on previous transactions.
+17. Verify registration of all previous sale deeds in the title chain.
+
+DOCUMENTS TO COLLECT AND VERIFY:
+- Original sale deed / mother deed.
+- All link documents (chain of title).
+- Encumbrance Certificate.
+- Khata / mutation records.
+- Property tax paid receipts.
+- Building plan approval.
+- Commencement certificate.
+- Occupancy / completion certificate.
+- RERA registration certificate (if applicable).
+- Society NOC / No Dues Certificate (if applicable).
+- Latest utility bills (electricity, water).
+
+────────────────────────────────────────────────────────────────────────────────
+END OF KNOWLEDGE BASE
+================================================================================
