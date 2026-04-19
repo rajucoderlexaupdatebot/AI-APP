@@ -10,7 +10,7 @@ import google.generativeai as genai
 # ==================================================
 # 🔑 ADD YOUR GEMINI API KEY HERE
 # ==================================================
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyCpuEJVpKUX-k5zJXIMxcZZoeeZjQ8VXA8")
 
 # ==================================================
 # KNOWLEDGE BASE LOADER
